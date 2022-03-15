@@ -1,6 +1,6 @@
 #!/bin/bash
 # descr: this is a simple script that counts
-#	 that counts the number of occurances
+#	 that counts the number of occurences
 #	 of the word 'de' case insensitively
 #
 # usage: ./sample.sh file.txt

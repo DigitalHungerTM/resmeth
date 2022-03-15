@@ -7,7 +7,7 @@ This repository houses a script that counts the number of occurrences of the wor
 ## The Program
 The script can be downloaded and executed by doing the following in a linux shell:  
 ```
-git clone https://github.com/DigitalHunger/resmeth
+git clone https://github.com/DigitalHungerTM/resmeth
 cd resmeth
 ./sample.sh rugwiki.txt
 ```
