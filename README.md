@@ -2,7 +2,7 @@
 By Mathijs Afman
 
 ## The Repo
-This repository houses a script that counts the number of occurrences of the word 'de', case insensitively. It is also used as a place for version control of the script
+This repository houses a script that counts the number of occurrences of the word 'de', case insensitively, in a .txt file. It is also used as a place for version control of the script
 
 ## The Program
 The script can be downloaded and executed by doing the following in a linux shell:  
