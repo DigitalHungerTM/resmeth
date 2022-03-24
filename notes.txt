@@ -9,3 +9,5 @@ echo "2022 $((1 + RANDOM % 12)) $((1 + RANDOM % 31)) : 14"
 # example output:
 2022 6 13 : 14
 
+files are stored in the following structure:
+Tweets/<year>/<month>/<files>
