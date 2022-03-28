@@ -33,7 +33,7 @@ format () {
 count_happy () {
     number=`gunzip -c "$path" |
     /net/corpora/twitter2/tools/tweet2tab -i text date|
-    grep -e "haha" -e "HAHA" -e "XD" -e "xd" -e "lol" -e "LOL" -e ":)" -e "(:" -e "😂" -e "🤣" |
+    grep -e "haha" -e "HAHA" -e "Haha" -e "XD" -e "xd" -e "Xd" -e "lol" -e "LOL" -e "Lol" -e "lmao" -e "Lmao" -e "LMAO" -e "hehe" -e "Hehe" -e "HEHE" -e "😂" -e "🤣" -e "😹" |
     cut -d ' ' -f1 |
     grep -v "RT" |
     wc -l`
@@ -53,3 +53,13 @@ format
 check_arg
 count_total
 count_happy
+
+for file in filename.txt; do
+    format
+    count_happy
+done
+
+for file in filename.txt; do
+    format
+    count_total
+done
