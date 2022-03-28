@@ -3,25 +3,10 @@
 
 #constants:
 TWEETS="/net/corpora/twitter2/Tweets"
-date=$1
-emojis="[😂]"
-
-check_arg () {
-    if [ -z "$date" ]; then
-        echo
-        echo "usage: ./counter.sh date"
-        echo "format of the date: hour/day/month/year"
-        echo "example: 01/09/11/2011"
-        echo "allowed dates: 19/16/12/2010 - 23/31/03/2022"
-        echo
-        exit
-    fi
-}
-
 
 # format: hour/day/month/year
-# date="01/30/06/2011"
 format () {
+    date=$1
     hour=`echo $date| cut -d '/' -f1`
     day=`echo $date | cut -d '/' -f2`
     month=`echo $date | cut -d '/' -f3`
@@ -37,7 +22,7 @@ count_happy () {
     cut -d ' ' -f1 |
     grep -v "RT" |
     wc -l`
-    echo "number of tweets that express laughter: $number"
+    echo "$number : tweets that express laughter"
 }
 
 
@@ -45,21 +30,30 @@ count_total () {
     number=`gunzip -c "$path" |
     wc -l`
 
-    echo "total number of tweets: $number"
+    echo "$number : total tweets"
 }
 
 
-format
-check_arg
-count_total
-count_happy
+main () {
+    hours="00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
+    years="2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021"
+    dayMonth="16/12"
+    for hour in $hours; do
+        for year in $years; do
+            date="$hour/$dayMonth/$year"
+            echo $date
+            format "$date"
+            count_happy
+            count_total
+            echo
+        done
+    done
+}
 
-for file in filename.txt; do
-    format
-    count_happy
-done
 
-for file in filename.txt; do
-    format
-    count_total
-done
+main
+
+
+
+
+
