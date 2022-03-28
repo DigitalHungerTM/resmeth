@@ -33,3 +33,12 @@ need to check that the tweet was sent from the correct timezone
 
 ways I can display the data:
 In a graph with percentage on the vertical axes and time of day on the horizontal axes
+
+
+data has been collected in the following format:
+- one day and month combination per file (16/06 or 16/12)
+
+hour/day/month/year
+number of tweets that express laughter
+total number of tweets
+whiteline
