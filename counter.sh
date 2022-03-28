@@ -3,6 +3,8 @@
 
 #constants:
 TWEETS="/net/corpora/twitter2/Tweets"
+HOURS="00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
+YEARS="2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021"
 
 arg=$1
 arg_check () {
@@ -52,12 +54,10 @@ count_total () {
 # and generates the output using count_happy and count_total
 main () {
     arg_check
-    hours="00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
-    years="2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021"
     dayMonth=$1
 
-    for hour in $hours; do
-        for year in $years; do
+    for hour in $HOURS; do
+        for year in $YEARS; do
             date="$hour/$dayMonth/$year"
             echo $date
             format "$date"
