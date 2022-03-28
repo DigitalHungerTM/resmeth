@@ -4,6 +4,18 @@
 #constants:
 TWEETS="/net/corpora/twitter2/Tweets"
 
+arg=$1
+arg_check () {
+    if [ -z "$arg" ]; then
+        echo
+        echo "Error: expected an argument"
+        echo "Usage: ./counter.sh Day/Month"
+        echo "Example: ./counter.sh 06/11"
+        echo
+        exit
+    fi
+}
+
 # format: hour/day/month/year
 # formats the date to be used as a filename
 format () {
@@ -39,9 +51,10 @@ count_total () {
 # generates the needed dates and passes them to the format function to be processed further
 # and generates the output using count_happy and count_total
 main () {
+    arg_check
     hours="00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23"
     years="2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021"
-    dayMonth="16/12"
+    dayMonth=$1
 
     for hour in $hours; do
         for year in $years; do
@@ -57,7 +70,7 @@ main () {
 
 
 # execute the main function
-main
+main $1
 
 
 
