@@ -1,3 +1,11 @@
+Research Question:
+"At what time of the day do people express laughter the most?"
+
+Hypothesis
+"I suspect that people will express laughter the most at around 7PM, 
+since studies have shown that people are happiest at this time of the day"
+
+
 files are saved in the following format:
 year|month|day:hour.out.gz
 without the pipe simbols, example:
@@ -11,3 +19,25 @@ echo "2022 $((1 + RANDOM % 12)) $((1 + RANDOM % 31)) : 14"
 
 files are stored in the following structure:
 Tweets/<year>/<month>/<files>
+
+
+
+things that express laughter / happiness:
+"hahaha" or variations
+":)"
+"XD" or variations
+"lol" or variations
+
+shortcomings:
+sarcasm / irony
+someones start of the day might be different from others
+have to choose one month across different years
+
+data I need to collect:
+time of day (hour)
+the number of tweets in that hour
+the number of tweets in that hour that express laughter
+need to check that the tweet was sent from the correct timezone
+
+ways I can display the data:
+In a graph with percentage on the vertical axes and time of day on the horizontal axes
