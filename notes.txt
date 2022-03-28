@@ -11,15 +11,7 @@ year|month|day:hour.out.gz
 without the pipe simbols, example:
 20220106:03.out.gz
 
-# echos a random month and day in 2022 with hour 14, some formatting is required to use this as filename
-# RANDOM with mod shouldn't be used for research though because of pigeon-holing (https://en.wikipedia.org/wiki/Pigeonhole_principle)
-echo "2022 $((1 + RANDOM % 12)) $((1 + RANDOM % 31)) : 14"
-# example output:
-2022 6 13 : 14
-
-files are stored in the following structure:
-Tweets/<year>/<month>/<files>
-
+dates that I will be using: 16/06/year and 16/12/year
 
 
 things that express laughter / happiness:
