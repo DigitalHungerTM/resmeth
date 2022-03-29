@@ -32,7 +32,6 @@ suitable to be saved as a .csv file by doing the following:
 ```commandline
 $ python3 processor.py data/filenames.txt pure > data/pure.csv
 ```
-```data/pure.csv``` was generated in this way.
 
 ### Important
 - The counter.sh file should be edited in an advanced text editor like vscode because other simple editors might
