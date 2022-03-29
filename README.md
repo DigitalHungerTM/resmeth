@@ -1,4 +1,4 @@
-# Research Methods Final Project
+(1# Research Methods Final Project
 This is the Github repo of all the code I wrote to help me with my research.  
 The code can be copied and executed with
 ```commandline
