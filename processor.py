@@ -19,7 +19,11 @@ def open_filenames(filename):
     with open(filename) as filenames_input:
         filenames = filenames_input.readlines()
 
+    while "\n" in filenames:
+        filenames.remove("\n")
+
     filenames = ["data/" + filename.strip() for filename in filenames]
+
     return filenames
 
 
