@@ -42,3 +42,10 @@ hour/day/month/year
 number of tweets that express laughter
 total number of tweets
 whiteline
+
+future research might be about how the time of the year affects happiness
+
+--- weird things about the corpus and karora server---
+data from april 15th 2013 at 1700 hours to april 17th 2013 1200 hours is missing, more months and years have missing data
+16/01/2015 has missing data too
+karora does not like it if the tweet2tab tool is being called 20 times at once as it has high CPU usage
