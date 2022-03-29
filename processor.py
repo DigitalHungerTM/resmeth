@@ -113,12 +113,27 @@ def plot(combined_list):
     hour_list = [value_list[0] for value_list in combined_list]
     laughter_list = [value_list[1] for value_list in combined_list]
     total_list = [value_list[2] for value_list in combined_list]
+    day_avg_total_list = [total/132 for total in total_list]
     ratio_list = [laughter_list[i]/total_list[i] for i in range(len(laughter_list))]
     percentage_list = [laughter_list[i]/total_list[i]*100 for i in range(len(laughter_list))]
-    plt.plot(hour_list, ratio_list)
-    plt.xlabel('hour')
-    plt.ylabel('ratio')
-    plt.title('Ratio of tweets with laughter vs total tweets plotted against time')
+
+    fig, ax1 = plt.subplots()
+    color = 'tab:red'
+    ax1.set_xlabel('time (h)')
+    ax1.set_ylabel('ratio (%)', color=color)
+    ax1.plot(hour_list, percentage_list, color=color)
+    ax1.tick_params(axis='y', labelcolor=color)
+
+    ax2 = ax1.twinx()  # instantiate a second axes that shares the same x-axis
+
+    color = 'tab:blue'
+    ax2.set_ylabel('avg total tweets', color=color)
+    ax2.plot(hour_list, day_avg_total_list, color=color)
+    ax2.tick_params(axis='y', labelcolor=color)
+
+    fig.tight_layout()  # otherwise the right y-label is slightly clipped
+    for xc in hour_list:
+        plt.axvline(x=xc, color='tab:grey', alpha=0.3)
     plt.show()
 
 
