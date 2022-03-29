@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def arg_check(argv):
+    """checks for correct usage of the arguments"""
     usage = f"Usage: python3 {argv[0]} filenames.txt pure|extended|plot"
     if len(argv) != 3:
         print("Error, there are too few/many arguments")
@@ -14,6 +15,7 @@ def arg_check(argv):
 
 
 def open_filenames(filename):
+    """opens files with filenames specified in filenames"""
     with open(filename) as filenames_input:
         filenames = filenames_input.readlines()
 
@@ -42,6 +44,7 @@ def open_files(filenames):
 
 
 def split_into_values(chunk):
+    """splits chunks into lists of values"""
     values = chunk.split("\n")
     values[0] = values[0].split("/")[0]
     values[1] = int(values[1].split(" ")[0])
@@ -50,6 +53,7 @@ def split_into_values(chunk):
 
 
 def combine_values(value_list_list):
+    """sums up the values that have the same hour"""
     combined_list = []
     for hour in range(24):
         hour = str(hour)
@@ -69,7 +73,7 @@ def combine_values(value_list_list):
 
 
 def print_pure(combined_list):
-    """sums up the values that have the same hour"""
+    """prints a pure csv format of the data"""
     print("hour,laughter,total,ratio,percentage")
     for value_list in combined_list:
         hour = value_list[0]
@@ -105,6 +109,7 @@ def print_extended(combined_values):
 
 
 def plot(combined_list):
+    """draws a simple plot of the hours and ratios"""
     hour_list = [value_list[0] for value_list in combined_list]
     laughter_list = [value_list[1] for value_list in combined_list]
     total_list = [value_list[2] for value_list in combined_list]
@@ -118,6 +123,7 @@ def plot(combined_list):
 
 
 def print_results(combined_list, mode):
+    """a wrapper to select the correct mode"""
     if mode == "pure":
         print_pure(combined_list)
     elif mode == "extended":
@@ -126,6 +132,7 @@ def print_results(combined_list, mode):
         plot(combined_list)
     else:
         print("Something went wrong...")
+        print("Probably with arg_check()")
         exit(-1)
 
 
