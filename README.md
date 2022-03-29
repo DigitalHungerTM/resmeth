@@ -1,4 +1,4 @@
-# Research Methods Final Project
+# Laughter vs Time of Day
 This is the Github repo of all the code I wrote to help me with my research.  
 The code can be copied and executed with
 ```commandline
