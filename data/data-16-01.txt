@@ -1,0 +1,1056 @@
+00/16/01/2011
+8840 : tweets that express laughter
+83104 : total tweets
+
+00/16/01/2012
+12603 : tweets that express laughter
+150798 : total tweets
+
+00/16/01/2013
+7673 : tweets that express laughter
+94758 : total tweets
+
+00/16/01/2014
+2295 : tweets that express laughter
+34361 : total tweets
+
+00/16/01/2015
+613 : tweets that express laughter
+19162 : total tweets
+
+00/16/01/2016
+871 : tweets that express laughter
+21222 : total tweets
+
+00/16/01/2017
+572 : tweets that express laughter
+13544 : total tweets
+
+00/16/01/2018
+410 : tweets that express laughter
+16725 : total tweets
+
+00/16/01/2019
+416 : tweets that express laughter
+13071 : total tweets
+
+00/16/01/2020
+466 : tweets that express laughter
+13547 : total tweets
+
+00/16/01/2021
+789 : tweets that express laughter
+22595 : total tweets
+
+01/16/01/2011
+5596 : tweets that express laughter
+55304 : total tweets
+
+01/16/01/2012
+6095 : tweets that express laughter
+76590 : total tweets
+
+01/16/01/2013
+4056 : tweets that express laughter
+47122 : total tweets
+
+01/16/01/2014
+1006 : tweets that express laughter
+14319 : total tweets
+
+01/16/01/2015
+417 : tweets that express laughter
+10711 : total tweets
+
+01/16/01/2016
+396 : tweets that express laughter
+10480 : total tweets
+
+01/16/01/2017
+307 : tweets that express laughter
+6281 : total tweets
+
+01/16/01/2018
+249 : tweets that express laughter
+8411 : total tweets
+
+01/16/01/2019
+173 : tweets that express laughter
+5739 : total tweets
+
+01/16/01/2020
+277 : tweets that express laughter
+6512 : total tweets
+
+01/16/01/2021
+436 : tweets that express laughter
+12431 : total tweets
+
+02/16/01/2011
+3037 : tweets that express laughter
+33189 : total tweets
+
+02/16/01/2012
+3738 : tweets that express laughter
+44439 : total tweets
+
+02/16/01/2013
+3157 : tweets that express laughter
+33241 : total tweets
+
+02/16/01/2014
+589 : tweets that express laughter
+6913 : total tweets
+
+02/16/01/2015
+235 : tweets that express laughter
+6308 : total tweets
+
+02/16/01/2016
+220 : tweets that express laughter
+6100 : total tweets
+
+02/16/01/2017
+152 : tweets that express laughter
+3777 : total tweets
+
+02/16/01/2018
+116 : tweets that express laughter
+6673 : total tweets
+
+02/16/01/2019
+96 : tweets that express laughter
+3067 : total tweets
+
+02/16/01/2020
+109 : tweets that express laughter
+3395 : total tweets
+
+02/16/01/2021
+239 : tweets that express laughter
+6716 : total tweets
+
+03/16/01/2011
+1930 : tweets that express laughter
+21068 : total tweets
+
+03/16/01/2012
+2981 : tweets that express laughter
+30994 : total tweets
+
+03/16/01/2013
+2983 : tweets that express laughter
+40302 : total tweets
+
+03/16/01/2014
+472 : tweets that express laughter
+4957 : total tweets
+
+03/16/01/2015
+215 : tweets that express laughter
+4355 : total tweets
+
+03/16/01/2016
+128 : tweets that express laughter
+4324 : total tweets
+
+03/16/01/2017
+93 : tweets that express laughter
+3053 : total tweets
+
+03/16/01/2018
+145 : tweets that express laughter
+5663 : total tweets
+
+03/16/01/2019
+52 : tweets that express laughter
+2262 : total tweets
+
+03/16/01/2020
+79 : tweets that express laughter
+2653 : total tweets
+
+03/16/01/2021
+155 : tweets that express laughter
+4343 : total tweets
+
+04/16/01/2011
+1210 : tweets that express laughter
+13133 : total tweets
+
+04/16/01/2012
+2820 : tweets that express laughter
+25949 : total tweets
+
+04/16/01/2013
+3040 : tweets that express laughter
+38378 : total tweets
+
+04/16/01/2014
+449 : tweets that express laughter
+4541 : total tweets
+
+04/16/01/2015
+134 : tweets that express laughter
+3943 : total tweets
+
+04/16/01/2016
+94 : tweets that express laughter
+3629 : total tweets
+
+04/16/01/2017
+88 : tweets that express laughter
+2919 : total tweets
+
+04/16/01/2018
+111 : tweets that express laughter
+5253 : total tweets
+
+04/16/01/2019
+42 : tweets that express laughter
+2084 : total tweets
+
+04/16/01/2020
+53 : tweets that express laughter
+2361 : total tweets
+
+04/16/01/2021
+106 : tweets that express laughter
+3482 : total tweets
+
+05/16/01/2011
+781 : tweets that express laughter
+7724 : total tweets
+
+05/16/01/2012
+2811 : tweets that express laughter
+25935 : total tweets
+
+05/16/01/2013
+2565 : tweets that express laughter
+33116 : total tweets
+
+05/16/01/2014
+347 : tweets that express laughter
+5100 : total tweets
+
+05/16/01/2015
+129 : tweets that express laughter
+4750 : total tweets
+
+05/16/01/2016
+92 : tweets that express laughter
+4171 : total tweets
+
+05/16/01/2017
+91 : tweets that express laughter
+3550 : total tweets
+
+05/16/01/2018
+98 : tweets that express laughter
+6317 : total tweets
+
+05/16/01/2019
+61 : tweets that express laughter
+3402 : total tweets
+
+05/16/01/2020
+93 : tweets that express laughter
+3686 : total tweets
+
+05/16/01/2021
+94 : tweets that express laughter
+4322 : total tweets
+
+06/16/01/2011
+376 : tweets that express laughter
+4558 : total tweets
+
+06/16/01/2012
+4262 : tweets that express laughter
+70551 : total tweets
+
+06/16/01/2013
+3397 : tweets that express laughter
+68027 : total tweets
+
+06/16/01/2014
+601 : tweets that express laughter
+16358 : total tweets
+
+06/16/01/2015
+192 : tweets that express laughter
+4828 : total tweets
+
+06/16/01/2016
+117 : tweets that express laughter
+6527 : total tweets
+
+06/16/01/2017
+202 : tweets that express laughter
+8657 : total tweets
+
+06/16/01/2018
+161 : tweets that express laughter
+9467 : total tweets
+
+06/16/01/2019
+156 : tweets that express laughter
+7053 : total tweets
+
+06/16/01/2020
+171 : tweets that express laughter
+7725 : total tweets
+
+06/16/01/2021
+151 : tweets that express laughter
+5985 : total tweets
+
+07/16/01/2011
+362 : tweets that express laughter
+5915 : total tweets
+
+07/16/01/2012
+10009 : tweets that express laughter
+178076 : total tweets
+
+07/16/01/2013
+8615 : tweets that express laughter
+164457 : total tweets
+
+07/16/01/2014
+1953 : tweets that express laughter
+49043 : total tweets
+
+07/16/01/2015
+0 : tweets that express laughter
+0 : total tweets
+
+07/16/01/2016
+196 : tweets that express laughter
+10449 : total tweets
+
+07/16/01/2017
+473 : tweets that express laughter
+19481 : total tweets
+
+07/16/01/2018
+394 : tweets that express laughter
+16855 : total tweets
+
+07/16/01/2019
+351 : tweets that express laughter
+16327 : total tweets
+
+07/16/01/2020
+404 : tweets that express laughter
+17416 : total tweets
+
+07/16/01/2021
+306 : tweets that express laughter
+11582 : total tweets
+
+08/16/01/2011
+796 : tweets that express laughter
+13271 : total tweets
+
+08/16/01/2012
+11331 : tweets that express laughter
+169545 : total tweets
+
+08/16/01/2013
+9361 : tweets that express laughter
+152976 : total tweets
+
+08/16/01/2014
+2031 : tweets that express laughter
+51515 : total tweets
+
+08/16/01/2015
+551 : tweets that express laughter
+25523 : total tweets
+
+08/16/01/2016
+372 : tweets that express laughter
+19116 : total tweets
+
+08/16/01/2017
+573 : tweets that express laughter
+25400 : total tweets
+
+08/16/01/2018
+500 : tweets that express laughter
+23422 : total tweets
+
+08/16/01/2019
+484 : tweets that express laughter
+22235 : total tweets
+
+08/16/01/2020
+567 : tweets that express laughter
+24278 : total tweets
+
+08/16/01/2021
+657 : tweets that express laughter
+23952 : total tweets
+
+09/16/01/2011
+2269 : tweets that express laughter
+31054 : total tweets
+
+09/16/01/2012
+12154 : tweets that express laughter
+157474 : total tweets
+
+09/16/01/2013
+8877 : tweets that express laughter
+135404 : total tweets
+
+09/16/01/2014
+2132 : tweets that express laughter
+55603 : total tweets
+
+09/16/01/2015
+942 : tweets that express laughter
+39835 : total tweets
+
+09/16/01/2016
+600 : tweets that express laughter
+30426 : total tweets
+
+09/16/01/2017
+610 : tweets that express laughter
+30566 : total tweets
+
+09/16/01/2018
+668 : tweets that express laughter
+29459 : total tweets
+
+09/16/01/2019
+641 : tweets that express laughter
+26544 : total tweets
+
+09/16/01/2020
+677 : tweets that express laughter
+28885 : total tweets
+
+09/16/01/2021
+1008 : tweets that express laughter
+36860 : total tweets
+
+10/16/01/2011
+4602 : tweets that express laughter
+56354 : total tweets
+
+10/16/01/2012
+12575 : tweets that express laughter
+159292 : total tweets
+
+10/16/01/2013
+9166 : tweets that express laughter
+135808 : total tweets
+
+10/16/01/2014
+2325 : tweets that express laughter
+58463 : total tweets
+
+10/16/01/2015
+859 : tweets that express laughter
+42454 : total tweets
+
+10/16/01/2016
+896 : tweets that express laughter
+37523 : total tweets
+
+10/16/01/2017
+751 : tweets that express laughter
+33857 : total tweets
+
+10/16/01/2018
+626 : tweets that express laughter
+28487 : total tweets
+
+10/16/01/2019
+593 : tweets that express laughter
+27061 : total tweets
+
+10/16/01/2020
+736 : tweets that express laughter
+28951 : total tweets
+
+10/16/01/2021
+1311 : tweets that express laughter
+43840 : total tweets
+
+11/16/01/2011
+7158 : tweets that express laughter
+81605 : total tweets
+
+11/16/01/2012
+13813 : tweets that express laughter
+164573 : total tweets
+
+11/16/01/2013
+9326 : tweets that express laughter
+137824 : total tweets
+
+11/16/01/2014
+2277 : tweets that express laughter
+57902 : total tweets
+
+11/16/01/2015
+1023 : tweets that express laughter
+44253 : total tweets
+
+11/16/01/2016
+1040 : tweets that express laughter
+41835 : total tweets
+
+11/16/01/2017
+739 : tweets that express laughter
+33560 : total tweets
+
+11/16/01/2018
+658 : tweets that express laughter
+27729 : total tweets
+
+11/16/01/2019
+656 : tweets that express laughter
+28840 : total tweets
+
+11/16/01/2020
+701 : tweets that express laughter
+28316 : total tweets
+
+11/16/01/2021
+1510 : tweets that express laughter
+45719 : total tweets
+
+12/16/01/2011
+10366 : tweets that express laughter
+112265 : total tweets
+
+12/16/01/2012
+1113 : tweets that express laughter
+172433 : total tweets
+
+12/16/01/2013
+10461 : tweets that express laughter
+148876 : total tweets
+
+12/16/01/2014
+2562 : tweets that express laughter
+59793 : total tweets
+
+12/16/01/2015
+1162 : tweets that express laughter
+45347 : total tweets
+
+12/16/01/2016
+1087 : tweets that express laughter
+40306 : total tweets
+
+12/16/01/2017
+865 : tweets that express laughter
+34830 : total tweets
+
+12/16/01/2018
+726 : tweets that express laughter
+28259 : total tweets
+
+12/16/01/2019
+742 : tweets that express laughter
+29583 : total tweets
+
+12/16/01/2020
+828 : tweets that express laughter
+29294 : total tweets
+
+12/16/01/2021
+1478 : tweets that express laughter
+46137 : total tweets
+
+13/16/01/2011
+11280 : tweets that express laughter
+116898 : total tweets
+
+13/16/01/2012
+15469 : tweets that express laughter
+176298 : total tweets
+
+13/16/01/2013
+11334 : tweets that express laughter
+153126 : total tweets
+
+13/16/01/2014
+2620 : tweets that express laughter
+61207 : total tweets
+
+13/16/01/2015
+1190 : tweets that express laughter
+44745 : total tweets
+
+13/16/01/2016
+1038 : tweets that express laughter
+38881 : total tweets
+
+13/16/01/2017
+743 : tweets that express laughter
+32339 : total tweets
+
+13/16/01/2018
+746 : tweets that express laughter
+28411 : total tweets
+
+13/16/01/2019
+720 : tweets that express laughter
+28785 : total tweets
+
+13/16/01/2020
+800 : tweets that express laughter
+26290 : total tweets
+
+13/16/01/2021
+1618 : tweets that express laughter
+47138 : total tweets
+
+14/16/01/2011
+11521 : tweets that express laughter
+117029 : total tweets
+
+14/16/01/2012
+308 : tweets that express laughter
+181124 : total tweets
+
+14/16/01/2013
+12244 : tweets that express laughter
+156024 : total tweets
+
+14/16/01/2014
+2762 : tweets that express laughter
+64431 : total tweets
+
+14/16/01/2015
+1215 : tweets that express laughter
+44441 : total tweets
+
+14/16/01/2016
+932 : tweets that express laughter
+36580 : total tweets
+
+14/16/01/2017
+767 : tweets that express laughter
+31307 : total tweets
+
+14/16/01/2018
+675 : tweets that express laughter
+28328 : total tweets
+
+14/16/01/2019
+705 : tweets that express laughter
+28400 : total tweets
+
+14/16/01/2020
+810 : tweets that express laughter
+25290 : total tweets
+
+14/16/01/2021
+1781 : tweets that express laughter
+47073 : total tweets
+
+15/16/01/2011
+11055 : tweets that express laughter
+111660 : total tweets
+
+15/16/01/2012
+17119 : tweets that express laughter
+183255 : total tweets
+
+15/16/01/2013
+13443 : tweets that express laughter
+160556 : total tweets
+
+15/16/01/2014
+3780 : tweets that express laughter
+76037 : total tweets
+
+15/16/01/2015
+1441 : tweets that express laughter
+46017 : total tweets
+
+15/16/01/2016
+897 : tweets that express laughter
+36280 : total tweets
+
+15/16/01/2017
+830 : tweets that express laughter
+32625 : total tweets
+
+15/16/01/2018
+809 : tweets that express laughter
+28513 : total tweets
+
+15/16/01/2019
+778 : tweets that express laughter
+28385 : total tweets
+
+15/16/01/2020
+771 : tweets that express laughter
+26143 : total tweets
+
+15/16/01/2021
+1728 : tweets that express laughter
+44638 : total tweets
+
+16/16/01/2011
+11668 : tweets that express laughter
+113118 : total tweets
+
+16/16/01/2012
+18070 : tweets that express laughter
+182932 : total tweets
+
+16/16/01/2013
+14070 : tweets that express laughter
+164357 : total tweets
+
+16/16/01/2014
+5203 : tweets that express laughter
+92242 : total tweets
+
+16/16/01/2015
+1623 : tweets that express laughter
+51056 : total tweets
+
+16/16/01/2016
+923 : tweets that express laughter
+35495 : total tweets
+
+16/16/01/2017
+1119 : tweets that express laughter
+37691 : total tweets
+
+16/16/01/2018
+961 : tweets that express laughter
+31410 : total tweets
+
+16/16/01/2019
+752 : tweets that express laughter
+29631 : total tweets
+
+16/16/01/2020
+880 : tweets that express laughter
+28470 : total tweets
+
+16/16/01/2021
+1745 : tweets that express laughter
+44135 : total tweets
+
+17/16/01/2011
+12220 : tweets that express laughter
+120916 : total tweets
+
+17/16/01/2012
+17367 : tweets that express laughter
+183139 : total tweets
+
+17/16/01/2013
+14139 : tweets that express laughter
+164951 : total tweets
+
+17/16/01/2014
+4682 : tweets that express laughter
+75489 : total tweets
+
+17/16/01/2015
+2203 : tweets that express laughter
+57830 : total tweets
+
+17/16/01/2016
+1129 : tweets that express laughter
+36260 : total tweets
+
+17/16/01/2017
+1300 : tweets that express laughter
+39926 : total tweets
+
+17/16/01/2018
+877 : tweets that express laughter
+32212 : total tweets
+
+17/16/01/2019
+867 : tweets that express laughter
+31360 : total tweets
+
+17/16/01/2020
+996 : tweets that express laughter
+29725 : total tweets
+
+17/16/01/2021
+1891 : tweets that express laughter
+44178 : total tweets
+
+18/16/01/2011
+12632 : tweets that express laughter
+122722 : total tweets
+
+18/16/01/2012
+16865 : tweets that express laughter
+183306 : total tweets
+
+18/16/01/2013
+13796 : tweets that express laughter
+163956 : total tweets
+
+18/16/01/2014
+4796 : tweets that express laughter
+76083 : total tweets
+
+18/16/01/2015
+2020 : tweets that express laughter
+52370 : total tweets
+
+18/16/01/2016
+1208 : tweets that express laughter
+36304 : total tweets
+
+18/16/01/2017
+1277 : tweets that express laughter
+39258 : total tweets
+
+18/16/01/2018
+1031 : tweets that express laughter
+33647 : total tweets
+
+18/16/01/2019
+988 : tweets that express laughter
+32049 : total tweets
+
+18/16/01/2020
+1072 : tweets that express laughter
+30149 : total tweets
+
+18/16/01/2021
+1803 : tweets that express laughter
+43349 : total tweets
+
+19/16/01/2011
+14635 : tweets that express laughter
+135168 : total tweets
+
+19/16/01/2012
+18061 : tweets that express laughter
+183280 : total tweets
+
+19/16/01/2013
+14862 : tweets that express laughter
+163322 : total tweets
+
+19/16/01/2014
+6497 : tweets that express laughter
+97000 : total tweets
+
+19/16/01/2015
+2199 : tweets that express laughter
+54431 : total tweets
+
+19/16/01/2016
+1272 : tweets that express laughter
+40562 : total tweets
+
+19/16/01/2017
+1416 : tweets that express laughter
+42493 : total tweets
+
+19/16/01/2018
+1131 : tweets that express laughter
+36043 : total tweets
+
+19/16/01/2019
+1044 : tweets that express laughter
+32048 : total tweets
+
+19/16/01/2020
+1226 : tweets that express laughter
+32634 : total tweets
+
+19/16/01/2021
+1961 : tweets that express laughter
+47313 : total tweets
+
+20/16/01/2011
+17119 : tweets that express laughter
+157508 : total tweets
+
+20/16/01/2012
+1446 : tweets that express laughter
+183119 : total tweets
+
+20/16/01/2013
+12810 : tweets that express laughter
+137121 : total tweets
+
+20/16/01/2014
+7037 : tweets that express laughter
+107631 : total tweets
+
+20/16/01/2015
+1959 : tweets that express laughter
+53222 : total tweets
+
+20/16/01/2016
+1296 : tweets that express laughter
+41789 : total tweets
+
+20/16/01/2017
+1794 : tweets that express laughter
+44275 : total tweets
+
+20/16/01/2018
+1299 : tweets that express laughter
+40683 : total tweets
+
+20/16/01/2019
+1207 : tweets that express laughter
+32839 : total tweets
+
+20/16/01/2020
+1099 : tweets that express laughter
+31282 : total tweets
+
+20/16/01/2021
+1933 : tweets that express laughter
+45144 : total tweets
+
+21/16/01/2011
+17882 : tweets that express laughter
+166001 : total tweets
+
+21/16/01/2012
+18129 : tweets that express laughter
+183334 : total tweets
+
+21/16/01/2013
+14776 : tweets that express laughter
+162198 : total tweets
+
+21/16/01/2014
+7645 : tweets that express laughter
+108305 : total tweets
+
+21/16/01/2015
+2320 : tweets that express laughter
+52927 : total tweets
+
+21/16/01/2016
+1574 : tweets that express laughter
+43556 : total tweets
+
+21/16/01/2017
+1996 : tweets that express laughter
+44677 : total tweets
+
+21/16/01/2018
+1432 : tweets that express laughter
+40604 : total tweets
+
+21/16/01/2019
+1129 : tweets that express laughter
+31298 : total tweets
+
+21/16/01/2020
+1151 : tweets that express laughter
+30450 : total tweets
+
+21/16/01/2021
+2110 : tweets that express laughter
+43392 : total tweets
+
+22/16/01/2011
+16114 : tweets that express laughter
+163794 : total tweets
+
+22/16/01/2012
+16931 : tweets that express laughter
+183353 : total tweets
+
+22/16/01/2013
+13619 : tweets that express laughter
+158559 : total tweets
+
+22/16/01/2014
+6859 : tweets that express laughter
+97833 : total tweets
+
+22/16/01/2015
+2333 : tweets that express laughter
+51136 : total tweets
+
+22/16/01/2016
+1600 : tweets that express laughter
+40064 : total tweets
+
+22/16/01/2017
+1918 : tweets that express laughter
+44348 : total tweets
+
+22/16/01/2018
+1299 : tweets that express laughter
+37507 : total tweets
+
+22/16/01/2019
+1067 : tweets that express laughter
+30964 : total tweets
+
+22/16/01/2020
+1161 : tweets that express laughter
+30124 : total tweets
+
+22/16/01/2021
+1883 : tweets that express laughter
+42156 : total tweets
+
+23/16/01/2011
+11163 : tweets that express laughter
+119464 : total tweets
+
+23/16/01/2012
+15594 : tweets that express laughter
+182265 : total tweets
+
+23/16/01/2013
+12292 : tweets that express laughter
+150458 : total tweets
+
+23/16/01/2014
+5009 : tweets that express laughter
+73965 : total tweets
+
+23/16/01/2015
+1715 : tweets that express laughter
+40728 : total tweets
+
+23/16/01/2016
+1444 : tweets that express laughter
+36400 : total tweets
+
+23/16/01/2017
+1170 : tweets that express laughter
+30219 : total tweets
+
+23/16/01/2018
+898 : tweets that express laughter
+28561 : total tweets
+
+23/16/01/2019
+781 : tweets that express laughter
+23134 : total tweets
+
+23/16/01/2020
+864 : tweets that express laughter
+23951 : total tweets
+
+23/16/01/2021
+1378 : tweets that express laughter
+32077 : total tweets
+
